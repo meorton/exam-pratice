@@ -1,0 +1,21 @@
+C:\Users\Programming11\Desktop\ExamEdward\ExamEdward\bin\Debug\ExamEdward.exe.config
+C:\Users\Programming11\Desktop\ExamEdward\ExamEdward\bin\Debug\ExamEdward.exe
+C:\Users\Programming11\Desktop\ExamEdward\ExamEdward\bin\Debug\ExamEdward.pdb
+C:\Users\Programming11\Desktop\ExamEdward\ExamEdward\obj\Debug\ExamEdward.csprojAssemblyReference.cache
+C:\Users\Programming11\Desktop\ExamEdward\ExamEdward\obj\Debug\ExamEdward.csproj.CoreCompileInputs.cache
+C:\Users\Programming11\Desktop\ExamEdward\ExamEdward\obj\Debug\ExamEdward.exe
+C:\Users\Programming11\Desktop\ExamEdward\ExamEdward\obj\Debug\ExamEdward.pdb
+D:\ExamEdward\ExamEdward\bin\Debug\ExamEdward.exe.config
+D:\ExamEdward\ExamEdward\bin\Debug\ExamEdward.exe
+D:\ExamEdward\ExamEdward\bin\Debug\ExamEdward.pdb
+D:\ExamEdward\ExamEdward\obj\Debug\ExamEdward.csprojAssemblyReference.cache
+D:\ExamEdward\ExamEdward\obj\Debug\ExamEdward.csproj.CoreCompileInputs.cache
+D:\ExamEdward\ExamEdward\obj\Debug\ExamEdward.exe
+D:\ExamEdward\ExamEdward\obj\Debug\ExamEdward.pdb
+C:\exam pratice test\ExamEdward\ExamEdward\bin\Debug\ExamEdward.exe.config
+C:\exam pratice test\ExamEdward\ExamEdward\bin\Debug\ExamEdward.exe
+C:\exam pratice test\ExamEdward\ExamEdward\bin\Debug\ExamEdward.pdb
+C:\exam pratice test\ExamEdward\ExamEdward\obj\Debug\ExamEdward.csprojAssemblyReference.cache
+C:\exam pratice test\ExamEdward\ExamEdward\obj\Debug\ExamEdward.csproj.CoreCompileInputs.cache
+C:\exam pratice test\ExamEdward\ExamEdward\obj\Debug\ExamEdward.exe
+C:\exam pratice test\ExamEdward\ExamEdward\obj\Debug\ExamEdward.pdb
