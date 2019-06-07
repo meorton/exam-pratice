@@ -19,3 +19,10 @@ C:\exam pratice test\ExamEdward\ExamEdward\obj\Debug\ExamEdward.csprojAssemblyRe
 C:\exam pratice test\ExamEdward\ExamEdward\obj\Debug\ExamEdward.csproj.CoreCompileInputs.cache
 C:\exam pratice test\ExamEdward\ExamEdward\obj\Debug\ExamEdward.exe
 C:\exam pratice test\ExamEdward\ExamEdward\obj\Debug\ExamEdward.pdb
+C:\test practice\ExamEdward\ExamEdward\obj\Debug\ExamEdward.csprojAssemblyReference.cache
+C:\test practice\ExamEdward\ExamEdward\obj\Debug\ExamEdward.csproj.CoreCompileInputs.cache
+C:\test practice\ExamEdward\ExamEdward\obj\Debug\ExamEdward.exe
+C:\test practice\ExamEdward\ExamEdward\obj\Debug\ExamEdward.pdb
+C:\test practice\ExamEdward\ExamEdward\bin\Debug\ExamEdward.exe.config
+C:\test practice\ExamEdward\ExamEdward\bin\Debug\ExamEdward.exe
+C:\test practice\ExamEdward\ExamEdward\bin\Debug\ExamEdward.pdb

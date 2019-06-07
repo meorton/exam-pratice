@@ -31,24 +31,43 @@ namespace ExamEdward
             Console.ReadKey();
         }
 
-        //print ascii cod (10) per line 
+        /// <summary>
+        /// try
+       // {               
+         //   ProcessString(s);
+   // }
+       // catch (Exception e)
+      //  {
+          //  Console.WriteLine("{0} Exception caught.", e);
+      //  }
+/// </summary>
 
-        private static void getasciicode()
+
+
+
+
+//print ascii cod (10) per line 
+
+private static void getasciicode()
 
         {
 
 
 
-            for (int i = 1; i < 122; i++)
+            for (int i = 1; i < 123; i++)
             {
-                Console.WriteLine(i + " = " + (char)i);
+                Console.Write(i + " = " + "\t" + (char)i);
 
                 if (i % 10 == 0)
                 {
-                    Console.WriteLine("Please press any key to turn page");
+
+                   
+                    // Console.WriteLine("Please press any key to turn page");
                     Console.Write((char)10);
-                    Console.ReadKey();
-                    Console.Clear();
+
+                    
+                    // Console.ReadKey();
+                    //Console.Clear();
                 }
             }
 
@@ -250,6 +269,14 @@ Console.WriteLine("Grade: F");
 
         }
 
+
+
+
+
+
+
+
+
         /// <summary>
         /// array and if (greatest value )
         /// </summary>
@@ -303,4 +330,18 @@ Console.WriteLine("Grade: F");
         }
 
     }
+
+
+
+
+
+
+
+    //product of array
+
+
+
+
 }
+
+
